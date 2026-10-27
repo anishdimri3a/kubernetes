@@ -65,6 +65,7 @@ It helps manage applications running across multiple machines and provides featu
 - Docker
 - Linux
 - Ubuntu (WSL)
+- kubeshark
 
 ## 💻 My Learning Environment
 
