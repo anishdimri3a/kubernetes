@@ -125,8 +125,8 @@ kubectl get pods
 - [x] Understand Kubernetes Pods
 - [x] Learn about Kubelet
 - [x] Practice using kubectl
-- [ ] Learn Deployments in depth
-- [ ] Learn Services
+- [x] Learn Deployments in depth
+- [x] Learn Services
 - [ ] Explore ConfigMaps and Secrets
 - [ ] Learn Kubernetes networking
 - [ ] Explore Kubernetes volumes
